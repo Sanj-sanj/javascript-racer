@@ -1,0 +1,25 @@
+{
+  "name": "javascript-racer-mod",
+  "version": "1.0.0",
+  "description": "Javascript Pseudo 3D Racer ==========================",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakesgordon/javascript-racer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakesgordon/javascript-racer/issues"
+  },
+  "homepage": "https://github.com/jakesgordon/javascript-racer#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
